@@ -1,4 +1,4 @@
-module github.com/cyberdotgent/lpr1403
+module github.com/friedkiwi/lpr1403
 
 go 1.19
 
